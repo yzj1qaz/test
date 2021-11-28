@@ -1,10 +1,10 @@
 
 
-# dd = "aabcdbefgde"
 # strs = ''
 
 
-
+def yyy():
+    pass
 
 
 
