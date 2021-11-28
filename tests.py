@@ -2,7 +2,6 @@
 
 # dd = "aabcdbefgde"
 # strs = ''
-#jcdvfepvfpevbfbfbfb
 def tst():
     pass
 
@@ -10,7 +9,6 @@ def tst():
 
 
 
-input = 'I Loves Python'
 output= 'I evoLs nohtyP'
 
 
