@@ -2,11 +2,9 @@
 
 # strs = ''
 #jcdvfepvfpevbfbfbfb
-def tst():
-    pass
+#frfrfrfrfrrf
 
-def yyy():
-    pass
+class Cath(self):
 
 
 
